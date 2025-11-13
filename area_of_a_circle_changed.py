@@ -4,6 +4,7 @@ def compute_area_of_circle(radius):
 	return area
 
 radius1 = 30
+radius1 = 40000
 area1 = compute_area_of_circle(radius1)
 print(f"The area of circle with radius {radius1} is: {area1}")
 
